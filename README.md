@@ -1,4 +1,6 @@
 ## CODE GUIDE
+`pip install -r requirements.txt`
+
 `pip install bentoml`
 
 `python3 bento_service.py`
